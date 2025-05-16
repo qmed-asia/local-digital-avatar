@@ -4,7 +4,6 @@
 
 Watch a demonstration video of the Digital Avatar in action: [Watch Demonstration Video on Vimeo](https://player.vimeo.com/video/1084889690?h=d986013c37&badge=0&autopause=0&player_id=0&app_id=58479)
 
-
 ---
 ## Setup
 
