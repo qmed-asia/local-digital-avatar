@@ -1,0 +1,15 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directory
+.venv/
+
+# Ignore environment configuration file
+.env
+
+# Ignore generated output and temporary files
+data/tmp_audio/
+data/lipsync-temp/
+data/lipsync-results/
+assets/*.lipsync_cache.json
