@@ -2,7 +2,8 @@
 ## Demonstration
 ![Demonstration Video](demo.gif)
 
-<div style="padding:53.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1084889690?h=d986013c37&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Local Digital Avatar with OpenVINO"></iframe></div>
+Watch a demonstration video of the Digital Avatar in action: [Watch Demonstration Video on Vimeo](https://player.vimeo.com/video/1084889690?h=d986013c37&badge=0&autopause=0&player_id=0&app_id=58479)
+
 
 ---
 ## Setup
