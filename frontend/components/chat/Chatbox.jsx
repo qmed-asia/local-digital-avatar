@@ -16,6 +16,7 @@ import useAudioRecorder from "@/hooks/useAudioRecorder";
 import useVideoQueue from "@/hooks/useVideoQueue";
 
 const MODEL_LLM = "qwen3:4b"
+const OLLAMA_API_KEY = "xxxxxx";
 const BACKEND_URL_OLLAMA = "http://192.168.0.49:11434";
 const BACKEND_URL_FASTAPI = "http://192.168.0.49:8000";
 
@@ -88,7 +89,7 @@ export default function Chatbox() {
         headers: {
           "Content-Type": "application/json",
           Authorization:
-            "Bearer AAAAC3NzaC1lZDI1NTE5AAAAIPTUQHHZp3yTa6WW01SWfjLhjGgjzapoSzdHv87m75mS",
+            `Bearer ${OLLAMA_API_KEY}`,
         },
         body: JSON.stringify({
           model: MODEL_LLM,
