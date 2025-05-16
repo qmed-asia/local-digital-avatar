@@ -1,3 +1,8 @@
+# Local Digital Avatar
+## Demonstration
+![Demonstration Video](LocalDigitalAvatar.mp4)
+
+---
 ## Setup
 
 This project is an extension and refactoring of the original Digital Avatar solution developed by Intel. The original implementation (found [here](https://github.com/intel/edge-developer-kit-reference-scripts/tree/main/usecases/ai/digital-avatar)) relies on a microservices architecture deployed using Docker containers for components like STT, TTS, and Lipsync.
