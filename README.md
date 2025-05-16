@@ -33,7 +33,7 @@ This solution has been validated on the following hardware configuration:
 The primary validated device for Lipsync inference in this setup is **CPU**. GPU drivers are required for system compatibility and potential future GPU acceleration within OpenVINO or other libraries.
 
 ---
-### Steps
+### Steps [BACKEND]
 
 To set up the project, follow these steps:
 
@@ -112,7 +112,25 @@ To set up the project, follow these steps:
         ```bash
         python3 app.py
         ```
+---
+### Steps [FRONTEND]
+1. **Download the Required Package**
+```
+cd frontend
+npm install 
+```
+or 
+```
+yarn
+```
 
+then 
+```
+yarn dev
+```
+
+2. Change the constant file for local connection for ollama and backend api
+   
 ---
 
 ## Generating AI Avatar Video
