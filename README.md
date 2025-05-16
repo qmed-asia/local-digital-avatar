@@ -1,6 +1,6 @@
 # Local Digital Avatar
 ## Demonstration
-![Demonstration Video](LocalDigitalAvatar.mp4)
+![Demonstration Video](demo.gif)
 
 ---
 ## Setup
