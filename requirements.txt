@@ -52,13 +52,13 @@ optimum-intel[openvino,nncf]==1.22.0
 
 
 torchvision
-transformers==4.48.0
+transformers>=4.50.0
 tyro==0.8.14
 opencv-python==4.10.*
 imageio==2.36.0
 onnxruntime-gpu==1.20.0
 onnx==1.17.0
-requests==2.32.3
+requests>=2.32.4
 scikit-image==0.24.0
 pykalman==0.9.7
 imageio[ffmpeg]==2.36.0
